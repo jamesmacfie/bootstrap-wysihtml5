@@ -414,8 +414,9 @@
                 "wysiwyg-color-orange" : 1
             },
             tags: {
-                "b":  {},
-                "i":  {},
+                "strong":  {},
+                "em":  {},
+                "p":  {},
                 "br": {},
                 "ol": {},
                 "ul": {},
